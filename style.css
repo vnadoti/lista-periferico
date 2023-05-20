@@ -1,0 +1,31 @@
+html {
+    background-color: rgb(0, 0, 0);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+h1 {
+    font-size: 40px;
+    color: orange;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 90px;
+}
+h2 {
+    font-size: 25px;
+    color: orange;
+    margin-left: 100px;
+}
+.preco {
+    color: black;
+    font-weight:900;
+    font-style: italic;
+    background-color: orange;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 10px;
+}
+.img {
+    width: 450px;
+    height: 150px;
+}
+.produtos {
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+}
